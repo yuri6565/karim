@@ -18,7 +18,7 @@ public class Prueba {
         
         System.out.println("hola linda");
         
-        System.out.println("GGWE");
+    
         
     }
     
